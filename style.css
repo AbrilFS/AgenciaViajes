@@ -1,0 +1,10 @@
+:root{
+    --bs-body-font-family: 'Montserrat', sans-serif;
+    --color-text:#00ABB3
+}
+
+.card-img-top{
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
